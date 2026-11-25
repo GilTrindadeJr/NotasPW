@@ -53,6 +53,7 @@ As atividades propostas possuem finalidade de revisão, envolvendo análise de c
 
 ## Referências
 
+- [Repositório do projeto Ecoa](https://github.com/ZPoizon/Ecoa)
 - [Objetivos de Desenvolvimento Sustentável — ONU Brasil](https://brasil.un.org/pt-br/sdgs)
 - [Documentação do Supabase — Row Level Security](https://supabase.com/docs/guides/database/postgres/row-level-security)
 - [Aula 10 — PWA, testes, build e publicação](./Aula_10_Resumo.md)

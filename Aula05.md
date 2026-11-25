@@ -64,5 +64,6 @@ As atividades são propostas de revisão, não tarefas oficiais atribuídas ao p
 ## Referências
 
 - [projeto-react](https://github.com/GilTrindadeJr/projeto-react)
+- [projeto-react — Vercel (painel do projeto)](https://vercel.com/giltrindadejrs-projects/projeto-react)
 - [Documentação oficial do React](https://react.dev/learn)
 - [Caderno de Programação Web](./README.md)

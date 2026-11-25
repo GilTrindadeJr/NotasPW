@@ -85,9 +85,13 @@ As atividades são propostas de revisão, não tarefas oficiais atribuídas ao p
 ## Referências
 
 - [projeto-vue](https://github.com/GilTrindadeJr/projeto-vue)
+- [projeto-vue — Vercel (painel do projeto)](https://vercel.com/giltrindadejrs-projects/projeto-vue)
 - [projeto-template](https://github.com/GilTrindadeJr/projeto-template)
+- [projeto-template — Vercel (painel do projeto)](https://vercel.com/giltrindadejrs-projects/projeto-template)
 - [projeto-angular](https://github.com/GilTrindadeJr/projeto-angular)
+- [projeto-angular — Vercel (painel do projeto)](https://vercel.com/giltrindadejrs-projects/projeto-angular)
 - [projeto-react](https://github.com/GilTrindadeJr/projeto-react)
+- [projeto-react — Vercel (painel do projeto)](https://vercel.com/giltrindadejrs-projects/projeto-react)
 - [Documentação oficial do Vue](https://vuejs.org/guide/introduction.html)
 - [Documentação oficial do Angular](https://angular.dev/)
 - [Caderno de Programação Web](./README.md)

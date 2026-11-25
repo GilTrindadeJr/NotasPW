@@ -71,6 +71,7 @@ As atividades são propostas de revisão, não tarefas oficiais atribuídas ao p
 
 - [api-data-hora](https://github.com/GilTrindadeJr/api-data-hora)
 - [frontend-data-hora](https://github.com/GilTrindadeJr/frontend-data-hora)
+- [frontend-data-hora — Vercel (painel do projeto)](https://vercel.com/giltrindadejrs-projects/frontend-data-hora)
 - [Documentação da Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
 - [Documentação do Vue](https://vuejs.org/guide/introduction.html)
 - [Caderno de Programação Web](./README.md)

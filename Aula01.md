@@ -60,17 +60,17 @@ Resumo baseado no material da Aula 01 fornecido pelo professor.
 
 ## Projetos e repositórios do semestre
 
-| Repositório | Relação com a disciplina |
-| --- | --- |
-| [NotasPW](https://github.com/GilTrindadeJr/NotasPW) | Organização das anotações das aulas em Markdown |
-| [PW](https://github.com/GilTrindadeJr/PW) | Projeto de Programação Web; referência proposta para revisão dos fundamentos |
-| [projeto-react](https://github.com/GilTrindadeJr/projeto-react) | Aplicação React com cinco funcionalidades |
-| [projeto-angular](https://github.com/GilTrindadeJr/projeto-angular) | Atividade de desenvolvimento com Angular e TypeScript |
-| [projeto-vue](https://github.com/GilTrindadeJr/projeto-vue) | Atividade de desenvolvimento com Vue |
-| [projeto-template](https://github.com/GilTrindadeJr/projeto-template) | Projeto Vue com licença MIT |
-| [api-data-hora](https://github.com/GilTrindadeJr/api-data-hora) | Projeto JavaScript relacionado a uma API de data e hora |
-| [frontend-data-hora](https://github.com/GilTrindadeJr/frontend-data-hora) | Projeto Vue relacionado à interface de data e hora |
-| Ecoa | Projeto educativo sobre os ODS desenvolvido em equipe |
+| Repositório | Relação com a disciplina | Vercel (painel do projeto) |
+| --- | --- | --- |
+| [NotasPW](https://github.com/GilTrindadeJr/NotasPW) | Organização das anotações das aulas em Markdown | — |
+| [PW](https://github.com/GilTrindadeJr/PW) | Projeto de Programação Web; referência proposta para revisão dos fundamentos | [Acessar na Vercel](https://vercel.com/giltrindadejrs-projects/pw) |
+| [projeto-react](https://github.com/GilTrindadeJr/projeto-react) | Aplicação React com cinco funcionalidades | [Acessar na Vercel](https://vercel.com/giltrindadejrs-projects/projeto-react) |
+| [projeto-angular](https://github.com/GilTrindadeJr/projeto-angular) | Atividade de desenvolvimento com Angular e TypeScript | [Acessar na Vercel](https://vercel.com/giltrindadejrs-projects/projeto-angular) |
+| [projeto-vue](https://github.com/GilTrindadeJr/projeto-vue) | Atividade de desenvolvimento com Vue | [Acessar na Vercel](https://vercel.com/giltrindadejrs-projects/projeto-vue) |
+| [projeto-template](https://github.com/GilTrindadeJr/projeto-template) | Projeto Vue com licença MIT | [Acessar na Vercel](https://vercel.com/giltrindadejrs-projects/projeto-template) |
+| [api-data-hora](https://github.com/GilTrindadeJr/api-data-hora) | Projeto JavaScript relacionado a uma API de data e hora | — |
+| [frontend-data-hora](https://github.com/GilTrindadeJr/frontend-data-hora) | Projeto Vue relacionado à interface de data e hora | [Acessar na Vercel](https://vercel.com/giltrindadejrs-projects/frontend-data-hora) |
+| [Ecoa](https://github.com/ZPoizon/Ecoa) | Projeto educativo sobre os ODS desenvolvido em equipe | — |
 
 HTML é uma linguagem de marcação; CSS é uma linguagem de estilos; JavaScript e TypeScript são linguagens de programação. JSON é um formato de dados. React é uma biblioteca de interfaces, Vue e Angular são frameworks, Vite é uma ferramenta de desenvolvimento e build, e Node.js é um ambiente de execução JavaScript. Git realiza o controle de versões e GitHub hospeda repositórios.
 

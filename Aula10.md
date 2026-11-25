@@ -52,6 +52,7 @@ Estudo do código-fonte, consulta à documentação técnica, avaliação da est
 
 ## Referências
 
+- [Repositório do projeto Ecoa](https://github.com/ZPoizon/Ecoa)
 - [Documentação sobre Progressive Web Apps — MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 - [Caderno de Programação Web](./README.md)
 

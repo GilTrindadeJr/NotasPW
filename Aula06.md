@@ -70,5 +70,6 @@ Esses cenários são sugestões, não resultados de testes executados nem ativid
 ## Referências
 
 - [projeto-react](https://github.com/GilTrindadeJr/projeto-react)
+- [projeto-react — Vercel (painel do projeto)](https://vercel.com/giltrindadejrs-projects/projeto-react)
 - [React — Atualização de arrays no estado](https://react.dev/learn/updating-arrays-in-state)
 - [Caderno de Programação Web](./README.md)

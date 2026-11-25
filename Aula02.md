@@ -56,6 +56,7 @@ As atividades são propostas de revisão, não tarefas oficiais atribuídas ao p
 ## Referências
 
 - [Projeto PW](https://github.com/GilTrindadeJr/PW)
+- [PW — Vercel (painel do projeto)](https://vercel.com/giltrindadejrs-projects/pw)
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn_web_development)
 - [Caderno de Programação Web](./README.md)
 
